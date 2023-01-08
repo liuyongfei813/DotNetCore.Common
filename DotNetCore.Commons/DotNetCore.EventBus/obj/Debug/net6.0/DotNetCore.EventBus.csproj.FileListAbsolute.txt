@@ -1,0 +1,15 @@
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\bin\Debug\net6.0\DotNetCore.EventBus.deps.json
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\bin\Debug\net6.0\DotNetCore.EventBus.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\bin\Debug\net6.0\DotNetCore.EventBus.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\bin\Debug\net6.0\DotNetCore.Common.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\bin\Debug\net6.0\DotNetCore.Common.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\DotNetCore.EventBus.csproj.AssemblyReference.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\DotNetCore.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\DotNetCore.EventBus.AssemblyInfoInputs.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\DotNetCore.EventBus.AssemblyInfo.cs
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\DotNetCore.EventBus.csproj.CoreCompileInputs.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\DotNetCore.EventBus.csproj.CopyComplete
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\DotNetCore.EventBus.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\refint\DotNetCore.EventBus.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\DotNetCore.EventBus.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.EventBus\obj\Debug\net6.0\ref\DotNetCore.EventBus.dll
