@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Honlivhp.DotNetCore.ASPNETCore</id>
+    <version>1.0.0</version>
+    <authors>liuyongfei</authors>
+    <projectUrl>https://github.com/liuyongfei813/DotNetCore.Common</projectUrl>
+    <description>对AspNetCore通用方法和请求返回值的封装
+Encapsulation of AspNetCore common methods and request return values</description>
+    <releaseNotes>对AspNetCore通用方法和请求返回值的封装
+Encapsulation of AspNetCore common methods and request return values</releaseNotes>
+    <repository url="https://github.com/liuyongfei813/DotNetCore.Common" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Honlivhp.DotNetCore.Common" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\bin\Debug\net6.0\DotNetCore.ASPNETCore.dll" target="lib\net6.0\DotNetCore.ASPNETCore.dll" />
+  </files>
+</package>

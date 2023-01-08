@@ -13,6 +13,7 @@
 Encapsulation of AspNetCore common methods and request return values</Description>
     <PackageReleaseNotes>对AspNetCore通用方法和请求返回值的封装
 Encapsulation of AspNetCore common methods and request return values</PackageReleaseNotes>
+    <PackageId>Honlivhp.DotNetCore.ASPNETCore</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

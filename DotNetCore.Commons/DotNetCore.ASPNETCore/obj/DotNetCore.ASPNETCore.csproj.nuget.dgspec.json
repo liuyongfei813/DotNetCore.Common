@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\DevProgram\\GlobalProject\\DotNetCore.Common\\DotNetCore.Commons\\DotNetCore.ASPNETCore\\DotNetCore.ASPNETCore.csproj",
-        "projectName": "DotNetCore.ASPNETCore",
+        "projectName": "Honlivhp.DotNetCore.ASPNETCore",
         "projectPath": "D:\\DevProgram\\GlobalProject\\DotNetCore.Common\\DotNetCore.Commons\\DotNetCore.ASPNETCore\\DotNetCore.ASPNETCore.csproj",
         "packagesPath": "D:\\tools\\Microsoft\\nuget\\packages",
         "outputPath": "D:\\DevProgram\\GlobalProject\\DotNetCore.Common\\DotNetCore.Commons\\DotNetCore.ASPNETCore\\obj\\",
