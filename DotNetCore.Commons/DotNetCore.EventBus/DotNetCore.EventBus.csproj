@@ -8,6 +8,9 @@
     <PackageProjectUrl>https://github.com/liuyongfei813/DotNetCore.Common</PackageProjectUrl>
     <RepositoryUrl>https://github.com/liuyongfei813/DotNetCore.Common</RepositoryUrl>
     <Version>1.0.0</Version>
+    <Company>honglivhp</Company>
+    <PackageReleaseNotes>对dotnet消息总线EventBus和RabbitMQ公共方法的封装
+Encapsulation of dotnet message bus EventBus and RabbitMQ public methods</PackageReleaseNotes>
   </PropertyGroup>
   
   <ItemGroup>

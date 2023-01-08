@@ -6,6 +6,8 @@
     <authors>liuyongfei</authors>
     <projectUrl>https://github.com/liuyongfei813/DotNetCore.Common</projectUrl>
     <description>Package Description</description>
+    <releaseNotes>对dotnet消息总线EventBus和RabbitMQ公共方法的封装
+Encapsulation of dotnet message bus EventBus and RabbitMQ public methods</releaseNotes>
     <repository url="https://github.com/liuyongfei813/DotNetCore.Common" />
     <dependencies>
       <group targetFramework="net6.0">
