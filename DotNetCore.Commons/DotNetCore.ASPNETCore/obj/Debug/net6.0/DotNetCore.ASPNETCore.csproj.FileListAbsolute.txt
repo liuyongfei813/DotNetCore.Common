@@ -1,0 +1,15 @@
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\bin\Debug\net6.0\DotNetCore.ASPNETCore.deps.json
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\bin\Debug\net6.0\DotNetCore.ASPNETCore.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\bin\Debug\net6.0\DotNetCore.ASPNETCore.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\bin\Debug\net6.0\DotNetCore.Common.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\bin\Debug\net6.0\DotNetCore.Common.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\DotNetCore.ASPNETCore.csproj.AssemblyReference.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\DotNetCore.ASPNETCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\DotNetCore.ASPNETCore.AssemblyInfoInputs.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\DotNetCore.ASPNETCore.AssemblyInfo.cs
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\DotNetCore.ASPNETCore.csproj.CoreCompileInputs.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\DotNetCore.ASPNETCore.csproj.CopyComplete
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\DotNetCore.ASPNETCore.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\refint\DotNetCore.ASPNETCore.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\DotNetCore.ASPNETCore.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.ASPNETCore\obj\Debug\net6.0\ref\DotNetCore.ASPNETCore.dll

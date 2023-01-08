@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.DomainCommons", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.EventBus", "DotNetCore.EventBus\DotNetCore.EventBus.csproj", "{DE7E70DE-2497-4EF7-A7BA-D54AEFA8FD9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.ASPNETCore", "DotNetCore.ASPNETCore\DotNetCore.ASPNETCore.csproj", "{89C60408-D394-4A2E-B491-0174F878F5B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DE7E70DE-2497-4EF7-A7BA-D54AEFA8FD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE7E70DE-2497-4EF7-A7BA-D54AEFA8FD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE7E70DE-2497-4EF7-A7BA-D54AEFA8FD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C60408-D394-4A2E-B491-0174F878F5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C60408-D394-4A2E-B491-0174F878F5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C60408-D394-4A2E-B491-0174F878F5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C60408-D394-4A2E-B491-0174F878F5B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
