@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Nullable>enable</Nullable>
+    <Authors>liuyongfei</Authors>
+    <Company>honlivhp</Company>
+    <Version>1.0.0</Version>
+    <PackageProjectUrl>https://github.com/liuyongfei813/DotNetCore.Common/tree/main/DotNetCore.Commons</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/liuyongfei813/DotNetCore.Common/tree/main/DotNetCore.Commons</RepositoryUrl>
+    <Description>封装Infrastructure中EFCore公用方法
+Encapsulate EFCore common methods in Infrastructure</Description>
+    <PackageReleaseNotes>封装Infrastructure中EFCore公用方法
+Encapsulate EFCore common methods in Infrastructure</PackageReleaseNotes>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="RedLock.net" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetCore.Common\DotNetCore.Common.csproj" />
+    <ProjectReference Include="..\DotNetCore.DomainCommons\DotNetCore.DomainCommons.csproj" />
+  </ItemGroup>
+
+</Project>

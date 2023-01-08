@@ -1,0 +1,17 @@
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\bin\Debug\net6.0\DotNetCore.Infrastructure.deps.json
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\bin\Debug\net6.0\DotNetCore.Infrastructure.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\bin\Debug\net6.0\DotNetCore.Infrastructure.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\bin\Debug\net6.0\DotNetCore.Common.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\bin\Debug\net6.0\DotNetCore.DomainCommons.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\bin\Debug\net6.0\DotNetCore.Common.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\bin\Debug\net6.0\DotNetCore.DomainCommons.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\DotNetCore.Infrastructure.csproj.AssemblyReference.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\DotNetCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\DotNetCore.Infrastructure.AssemblyInfoInputs.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\DotNetCore.Infrastructure.AssemblyInfo.cs
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\DotNetCore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\DotNetCore.Infrastructure.csproj.CopyComplete
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\DotNetCore.Infrastructure.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\refint\DotNetCore.Infrastructure.dll
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\DotNetCore.Infrastructure.pdb
+D:\DevProgram\GlobalProject\DotNetCore.Common\DotNetCore.Commons\DotNetCore.Infrastructure\obj\Debug\net6.0\ref\DotNetCore.Infrastructure.dll

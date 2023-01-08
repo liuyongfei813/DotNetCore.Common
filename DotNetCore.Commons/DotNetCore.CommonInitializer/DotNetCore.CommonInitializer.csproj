@@ -27,5 +27,13 @@ Extraction and encapsulation of public methods for. net core project initializat
   </ItemGroup>
   
   
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetCore.ASPNETCore\DotNetCore.ASPNETCore.csproj" />
+    <ProjectReference Include="..\DotNetCore.Common\DotNetCore.Common.csproj" />
+    <ProjectReference Include="..\DotNetCore.EventBus\DotNetCore.EventBus.csproj" />
+    <ProjectReference Include="..\DotNetCore.JWT\DotNetCore.JWT.csproj" />
+  </ItemGroup>
+  
+  
   
 </Project>
