@@ -146,7 +146,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\DevProgram\\GlobalProject\\DotNetCore.Common\\DotNetCore.Commons\\DotNetCore.Infrastructure\\DotNetCore.Infrastructure.csproj",
-        "projectName": "DotNetCore.Infrastructure",
+        "projectName": "Honlivhp.DotNetCore.Infrastructure",
         "projectPath": "D:\\DevProgram\\GlobalProject\\DotNetCore.Common\\DotNetCore.Commons\\DotNetCore.Infrastructure\\DotNetCore.Infrastructure.csproj",
         "packagesPath": "D:\\tools\\Microsoft\\nuget\\packages",
         "outputPath": "D:\\DevProgram\\GlobalProject\\DotNetCore.Common\\DotNetCore.Commons\\DotNetCore.Infrastructure\\obj\\",
