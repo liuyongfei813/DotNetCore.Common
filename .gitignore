@@ -1,0 +1,12 @@
+DotNetCore.Commons/.vs/
+DotNetCore.Commons/DotNetCore.Common/obj/
+DotNetCore.Commons/DotNetCore.Common/bin/
+DotNetCore.Commons/DotNetCore.CommonInitializer/obj/
+DotNetCore.Commons/DotNetCore.CommonInitializer/bin/
+DotNetCore.Commons/DotNetCore.DomainCommons/obj/
+DotNetCore.Commons/DotNetCore.DomainCommons/bin/
+DotNetCore.Commons/DotNetCore.JWT/obj/
+DotNetCore.Commons/DotNetCore.JWT/bin/
+
+
+
