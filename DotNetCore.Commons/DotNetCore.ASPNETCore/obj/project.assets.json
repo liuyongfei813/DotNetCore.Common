@@ -1439,7 +1439,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Honlivhp.DotNetCore.Common/1.0.0": {
+      "Honlivhp.DotNetCore.Common/1.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -4535,7 +4535,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Honlivhp.DotNetCore.Common/1.0.0": {
+    "Honlivhp.DotNetCore.Common/1.0.1": {
       "type": "project",
       "path": "../DotNetCore.Common/DotNetCore.Common.csproj",
       "msbuildProject": "../DotNetCore.Common/DotNetCore.Common.csproj"
@@ -4543,7 +4543,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Honlivhp.DotNetCore.Common >= 1.0.0",
+      "Honlivhp.DotNetCore.Common >= 1.0.1",
       "Microsoft.AspNetCore.Mvc.Abstractions >= 2.2.0",
       "Microsoft.AspNetCore.Mvc.Core >= 2.2.5",
       "Microsoft.EntityFrameworkCore >= 6.0.1",

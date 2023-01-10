@@ -62,12 +62,20 @@ namespace CommonInitializer
             });
         }
 
-        public static void ConfigureExtraServices(this WebApplicationBuilder builder, InitializerOptions initOptions)
+        /// <summary>
+        /// 添加根据传入的不同的接口类型
+        /// 实现DI实体类的自动注入
+        /// </summary>
+        /// <param name="builder"></param>
+        /// <param name="initOptions"></param>
+        /// <param name="option"></param>
+        public static void ConfigureExtraServices(this WebApplicationBuilder builder, InitializerOptions initOptions,Action<IocOption> option)
         {
             IServiceCollection services = builder.Services;
             IConfiguration configuration = builder.Configuration;
             var assemblies = ReflectionHelper.GetAllReferencedAssemblies();
-            services.RunModuleInitializers(assemblies);
+
+            services.RunModuleInitializers(assemblies, option);
             services.AddAllDbContexts(ctx =>
             {
                 //连接字符串如果放到appsettings.json中，会有泄密的风险

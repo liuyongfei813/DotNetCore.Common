@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YRulXlZLF0Low3LeuFBz1uGifW/EEIEsdWO+7lpkK1A8O6CgMiCo+LgyNFixTwkF6e69d3FdjKXXFRtLMH3dSw==",
+  "dgSpecHash": "xideFIX+2nIRDk6xhgVZtHMC4mA07Lm57lVpxu8209H3ZIBXYS/i7+506KRWPZb0Z5iU6h1ix4XRfyDFOwE9lQ==",
   "success": true,
   "projectFilePath": "D:\\DevProgram\\GlobalProject\\DotNetCore.Common\\DotNetCore.Commons\\DotNetCore.EventBus\\DotNetCore.EventBus.csproj",
   "expectedPackageFiles": [

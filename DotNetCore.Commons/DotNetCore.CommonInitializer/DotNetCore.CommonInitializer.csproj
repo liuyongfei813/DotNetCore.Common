@@ -5,15 +5,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>liuyongfei</Authors>
     <Company>honlivhp</Company>
-    <Description>.net core项目初始化公共方法的抽取和封装
-      Extraction and encapsulation of public methods for. net core project initialization</Description>
+    <Description>添加根据传入的option参数接口类型，实现实现相关接口实体类的自动注入
+Add the interface type according to the passed option parameter to realize the automatic injection of the relevant interface entity class</Description>
     <PackageProjectUrl>https://github.com/liuyongfei813/DotNetCore.Common/tree/main/DotNetCore.Commons</PackageProjectUrl>
     <RepositoryUrl>https://github.com/liuyongfei813/DotNetCore.Common/tree/main/DotNetCore.Commons</RepositoryUrl>
-    <PackageReleaseNotes>.net core项目初始化公共方法的抽取和封装
-Extraction and encapsulation of public methods for. net core project initialization</PackageReleaseNotes>
+    <PackageReleaseNotes>添加根据传入的option参数接口类型，实现实现相关接口实体类的自动注入
+Add the interface type according to the passed option parameter to realize the automatic injection of the relevant interface entity class</PackageReleaseNotes>
   </PropertyGroup>
   
   

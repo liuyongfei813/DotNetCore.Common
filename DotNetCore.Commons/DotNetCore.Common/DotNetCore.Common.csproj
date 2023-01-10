@@ -5,12 +5,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>liuyongfei</Authors>
     <PackageProjectUrl>https://github.com/liuyongfei813/DotNetCore.Common</PackageProjectUrl>
     <RepositoryUrl>https://github.com/liuyongfei813/DotNetCore.Common</RepositoryUrl>
     <Title>DotNetCore.Common</Title>
     <PackageId>Honlivhp.DotNetCore.Common</PackageId>
+    <Description>添加根据传入的option参数接口类型，实现实现相关接口实体类的自动注入
+Add the interface type according to the passed option parameter to realize the automatic injection of the relevant interface entity class</Description>
+    <PackageReleaseNotes>添加根据传入的option参数接口类型，实现实现相关接口实体类的自动注入
+Add the interface type according to the passed option parameter to realize the automatic injection of the relevant interface entity class</PackageReleaseNotes>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="FluentValidation" Version="10.3.6" />

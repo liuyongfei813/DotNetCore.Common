@@ -310,7 +310,7 @@
           }
         }
       },
-      "Honlivhp.DotNetCore.Common/1.0.0": {
+      "Honlivhp.DotNetCore.Common/1.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -776,7 +776,7 @@
         "version.txt"
       ]
     },
-    "Honlivhp.DotNetCore.Common/1.0.0": {
+    "Honlivhp.DotNetCore.Common/1.0.1": {
       "type": "project",
       "path": "../DotNetCore.Common/DotNetCore.Common.csproj",
       "msbuildProject": "../DotNetCore.Common/DotNetCore.Common.csproj"
@@ -785,7 +785,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Dynamic.Json >= 1.3.0",
-      "Honlivhp.DotNetCore.Common >= 1.0.0",
+      "Honlivhp.DotNetCore.Common >= 1.0.1",
       "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0",
       "Microsoft.Extensions.Options >= 6.0.0",
       "RabbitMQ.Client >= 6.2.2"

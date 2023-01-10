@@ -42,8 +42,10 @@ namespace Microsoft.Extensions.DependencyInjection
         /// <param name="services"></param>
         /// <param name="assemblies"></param>
         public static IServiceCollection RunModuleInitializers(this IServiceCollection services,
-         IEnumerable<Assembly> assemblies)
+         IEnumerable<Assembly> assemblies,Action<IocOption> option)
         {
+            //根据实现的IModuleInitializer接口的实体类自动注入
+            //通过反射创建实体类进行方法的执行，进行手动的注入
             foreach (var asm in assemblies)
             {
                 Type[] types = asm.GetTypes();
@@ -58,6 +60,49 @@ namespace Microsoft.Extensions.DependencyInjection
                     initializer.Initialize(services);
                 }
             }
+
+            //liuyongfei 添加根据传入的option参数接口类型
+            //实现实现相关接口实体类的自动注入
+            if (option != null)
+            {
+                var iocOption = new IocOption();
+                option(iocOption);//客户端类型注入 
+                var definedTypes = assemblies.SelectMany(y => y.DefinedTypes).ToList();
+                foreach (var type in iocOption.Types)
+                {
+                    var allTypes = definedTypes.Where(t => type.GetTypeInfo().IsAssignableFrom(t.AsType()));
+
+                    var abstractTypes = allTypes.Where(t => t.IsInterface || t.IsAbstract);
+                    var implTypes = allTypes.Where(t => t.IsInterface == false && t.IsAbstract == false).ToList();
+
+
+                    foreach (var abstractType in abstractTypes)
+                    {
+                        if (abstractTypes.Count() > 1
+                            && abstractType.AssemblyQualifiedName == type.AssemblyQualifiedName)
+                        {
+                            continue;
+                        }
+                        var _implTypes = implTypes.Where(t => t.ImplementedInterfaces.Any(impl => impl.AssemblyQualifiedName == abstractType.AssemblyQualifiedName)
+                                    || t.BaseType?.AssemblyQualifiedName == abstractType.AssemblyQualifiedName);
+                        foreach (var implClass in _implTypes)
+                        {
+                            if (iocOption.ExceptTypes.Count > 0)
+                            {
+                                if (iocOption.ExceptTypes.Where(
+                                    t => t.AssemblyQualifiedName == abstractType.AssemblyQualifiedName
+                                    || t.AssemblyQualifiedName == implClass.AssemblyQualifiedName).Any())
+                                {
+                                    continue;
+                                }
+                            }
+                            //配置ScopedDI
+                            services.AddScoped(abstractType, implClass);
+                        }
+                    }
+                }
+            }
+
             return services;
         }
     }

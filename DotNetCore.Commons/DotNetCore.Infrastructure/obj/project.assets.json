@@ -698,7 +698,7 @@
           "bin/placeholder/DotNetCore.DomainCommons.dll": {}
         }
       },
-      "Honlivhp.DotNetCore.Common/1.0.0": {
+      "Honlivhp.DotNetCore.Common/1.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -1695,7 +1695,7 @@
       "path": "../DotNetCore.DomainCommons/DotNetCore.DomainCommons.csproj",
       "msbuildProject": "../DotNetCore.DomainCommons/DotNetCore.DomainCommons.csproj"
     },
-    "Honlivhp.DotNetCore.Common/1.0.0": {
+    "Honlivhp.DotNetCore.Common/1.0.1": {
       "type": "project",
       "path": "../DotNetCore.Common/DotNetCore.Common.csproj",
       "msbuildProject": "../DotNetCore.Common/DotNetCore.Common.csproj"
@@ -1704,7 +1704,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "DotNetCore.DomainCommons >= 1.0.0",
-      "Honlivhp.DotNetCore.Common >= 1.0.0",
+      "Honlivhp.DotNetCore.Common >= 1.0.1",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 10.0.1",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.1",
       "RedLock.net >= 2.3.1"

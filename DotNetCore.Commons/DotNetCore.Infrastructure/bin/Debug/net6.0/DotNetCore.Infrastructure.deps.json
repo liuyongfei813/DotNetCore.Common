@@ -9,7 +9,7 @@
       "DotNetCore.Infrastructure/1.0.0": {
         "dependencies": {
           "DotNetCore.DomainCommons": "1.0.0",
-          "Honlivhp.DotNetCore.Common": "1.0.0",
+          "Honlivhp.DotNetCore.Common": "1.0.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.1",
           "RedLock.net": "2.3.1"
@@ -418,7 +418,7 @@
           "DotNetCore.DomainCommons.dll": {}
         }
       },
-      "Honlivhp.DotNetCore.Common/1.0.0": {
+      "Honlivhp.DotNetCore.Common/1.0.1": {
         "dependencies": {
           "AsmResolver.DotNet": "4.11.2",
           "FluentValidation": "10.3.6",
@@ -729,7 +729,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Honlivhp.DotNetCore.Common/1.0.0": {
+    "Honlivhp.DotNetCore.Common/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

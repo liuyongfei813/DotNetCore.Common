@@ -9,7 +9,7 @@
       "DotNetCore.EventBus/1.0.0": {
         "dependencies": {
           "Dynamic.Json": "1.3.0",
-          "Honlivhp.DotNetCore.Common": "1.0.0",
+          "Honlivhp.DotNetCore.Common": "1.0.1",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.Extensions.Options": "6.0.0",
           "RabbitMQ.Client": "6.2.2"
@@ -185,7 +185,7 @@
         }
       },
       "System.Threading.Channels/4.7.1": {},
-      "Honlivhp.DotNetCore.Common/1.0.0": {
+      "Honlivhp.DotNetCore.Common/1.0.1": {
         "dependencies": {
           "AsmResolver.DotNet": "4.11.2",
           "FluentValidation": "10.3.6",
@@ -337,7 +337,7 @@
       "path": "system.threading.channels/4.7.1",
       "hashPath": "system.threading.channels.4.7.1.nupkg.sha512"
     },
-    "Honlivhp.DotNetCore.Common/1.0.0": {
+    "Honlivhp.DotNetCore.Common/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
